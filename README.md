@@ -44,6 +44,7 @@ let () =
   ] in
 
   find_solution row_clues col_clues
+```
 
 ## Running the Solver
 
